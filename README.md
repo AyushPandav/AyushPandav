@@ -5,7 +5,7 @@
 
 <!-- Animated Dynamic Typing Subtitle -->
 <a href="https://github.com/AyushPandav">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full-Stack+Engineer+%7C+AI+%26+Cloud+Enthusiast+%E2%9A%A1;Crafting+Scalable+Web+%26+Mobile+Architectures+%F0%9F%9A%80;1st+Place+Winner+%E2%80%94+HackStreak+2.0+%F0%9F%8F%86;Technical+Lead+%40+DevOps+Club+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Turning+Ideas+Into+Production-Ready+Software+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Full-Stack+Engineer+%7C+AI+%26+Cloud+Enthusiast+%E2%9A%A1;Crafting+Scalable+Web+%26+Mobile+Architectures+%F0%9F%9A%80;1st+Place+Winner+%E2%80%94+HackStreak+2.0+%F0%9F%8F%86;Designing+Modern+Systems+%26+Clean+APIs+%E2%9A%99%EF%B8%8F;Turning+Ideas+Into+Production-Ready+Software+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
   "developer": "Ayush Pandav",
   "degree": "B.E. in Information Technology",
   "craft": ["Full-Stack Engineering", "Scalable System Design", "AI Integration"],
-  "roles": ["Technical Lead @ DevOps Club", "Hackathon Winner @ HackStreak 2.0"],
+  "achievement": "1st Place Winner @ HackStreak 2.0",
   "philosophy": "Learn → Architect → Build → Break → Debug → Ship"
 }
 ```
@@ -39,7 +39,6 @@ I design and build **end-to-end, high-impact software** — bridging intuitive u
 
 - 🔭 **Current Focus:** Engineering intelligent data pipelines, AI-driven applications, and cloud-native services.
 - 🌱 **Continuous Learning:** Deepening knowledge in container orchestration (Docker/K8s), distributed backends, and serverless architectures.
-- 🧑‍💻 **Leadership:** Technical Lead at **DevOps Club**, mentoring developers and leading sessions on modern deployment workflows.
 - 🏆 **Hackathons:** Clinched **1st Place at HackStreak 2.0** by building and shipping an end-to-end healthcare system under pressure.
 - ⚡ **Mindset:** Obsessed with clean abstractions, developer ergonomics, and rock-solid reliability.
 
@@ -197,24 +196,19 @@ I design and build **end-to-end, high-impact software** — bridging intuitive u
 
 ---
 
-### 🏆 Achievements & Leadership
+### 🏆 Milestones & Recognition
 
 <table>
   <tr>
-    <td width="33%" align="center">
+    <td width="50%" align="center">
       🥇<br/>
-      <b>HackStreak 2.0 Winner</b><br/>
-      <sub>Secured <b>1st Place</b> by architecting and pitching a real-time medical intelligence platform under strict hackathon deadlines.</sub>
+      <b>1st Place — HackStreak 2.0</b><br/>
+      <sub>Architected and shipped <b>MedTech</b>, a comprehensive healthcare intelligence platform under strict hackathon deadlines.</sub>
     </td>
-    <td width="33%" align="center">
-      🧑‍💻<br/>
-      <b>Technical Lead @ DevOps Club</b><br/>
-      <sub>Directing technical initiatives, mentoring peers in CI/CD pipelines, containerization with Docker, and cloud deployments.</sub>
-    </td>
-    <td width="33%" align="center">
-      ☁️<br/>
-      <b>"Code to Cloud" Workshop</b><br/>
-      <sub>Designed and led an end-to-end workshop tracing the complete lifecycle: <code>Dev → Git → CI → Build → Docker → Cloud</code>.</sub>
+    <td width="50%" align="center">
+      🚀<br/>
+      <b>End-to-End Product Delivery</b><br/>
+      <sub>From system design and relational data schemas to resilient backend APIs and responsive client applications.</sub>
     </td>
   </tr>
 </table>
